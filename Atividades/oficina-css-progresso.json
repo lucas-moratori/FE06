@@ -1,0 +1,27 @@
+{
+  "versao": 3,
+  "exportadoEm": "2026-10-27T19:08:44.484Z",
+  "estado": {
+    "current": 7,
+    "completed": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "drafts": {
+      "0": "h1 {\ncolor:blue;\n}\n\np {\ncolor: #334155;\n}",
+      "1": "body {\nbackground-color: #fef3c7;\ncolor: black;\n}",
+      "2": "h1, p {\ntext-align: center;\n}\n\nh1 {\nfont-size: 32px; \n}",
+      "3": ".aviso {\npadding: 16px;\nborder: solid blue 2px;\nbackground-color: #eff6ff;\n}",
+      "4": "ul {\ndisplay: flex;\nlist-style: none;\n}\n\na {\ntext-decoration: none;\n}",
+      "5": "table {\nwidth: 100%;\n}\nth, td {\nborder: 1px solid blue;\n}\nth {\nbackground-color: #bfdbfe;\n}",
+      "6": "form {\nbackground: #f1f5f9;\nborder-radius: 10px;\npadding: 16px;\n}\ninput {\nwidth: 100%;\n}",
+      "7": ".card {\nmax-width: 360px;\nmargin: 20px auto;\nborder-radius: 12px;\nbox-shadow: 0 4px 12px #0f172a18;\n}"
+    }
+  }
+}
